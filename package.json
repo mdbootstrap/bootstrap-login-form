@@ -1,25 +1,27 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-login-form",
+  "version": "1.0.0",
+  "description": "Responsive Login form built with Bootstrap 5. Lot of templates of signup forms and predefined form pages - various design, styles and functionalities.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-login-form.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "login",
     "bootstrap5",
-    "circle-image-view"
+    "form",
+    "login-forms",
+    "bootstrap-login-form"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-login-form/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/login/"
 }
